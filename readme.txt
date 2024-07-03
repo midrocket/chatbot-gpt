@@ -1,6 +1,5 @@
 === ChatbotGPT for WP ===
 Contributors: Midrocket
-Donate link: https://www.midrocket.com/donate
 Tags: ChatGPT, OpenAI, chatbot, AI, integration
 Requires at least: 5.9
 Tested up to: 6.5.5

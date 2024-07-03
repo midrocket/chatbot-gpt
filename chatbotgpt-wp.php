@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: ChatbotGPT for WP
- * Plugin URI: https://www.midrocket.com
+ * Plugin URI: https://github.com/midrocket/chatbotgpt-wp
  * Description: ChatGPT chatbot integration for WP.
  * Version: 1.0.0
  * Author: Midrocket
