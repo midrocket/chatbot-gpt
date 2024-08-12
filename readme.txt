@@ -1,6 +1,6 @@
-=== ChatbotGPT for WP ===
+=== Chatbot for GPT ===
 Contributors: Midrocket
-Tags: ChatGPT, OpenAI, chatbot, AI, integration
+Tags: Chatbot, GPT, ChatGPT, OpenAI, chatbot, AI, integration
 Requires at least: 5.9
 Tested up to: 6.5.5
 Requires PHP: 7.4
@@ -12,7 +12,7 @@ ChatGPT chatbot integration for WP.
 
 == Description ==
 
-ChatGPT for WordPress brings the power of OpenAI's GPT-3.5-turbo to your website, allowing you to add a conversational AI chatbot to engage with your visitors. Customize the chatbot's appearance, behavior, and integrate it seamlessly into your WordPress site.
+Chatbot for GPT for WordPress brings the power of OpenAI's GPT-3.5-turbo to your website, allowing you to add a conversational AI chatbot to engage with your visitors. Customize the chatbot's appearance, behavior, and integrate it seamlessly into your WordPress site.
 
 == Installation ==
 

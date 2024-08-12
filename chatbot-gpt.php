@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: ChatbotGPT for WP
- * Plugin URI: https://github.com/midrocket/chatbotgpt-wp
- * Description: ChatGPT chatbot integration for WP.
+ * Plugin Name: Chatbot for GPT
+ * Plugin URI: https://github.com/midrocket/chatbot-gpt
+ * Description: Chatbot for GPT integration for WP.
  * Version: 1.0.0
  * Author: Midrocket
  * Author URI: https://www.midrocket.com
@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 function get_cgpt_plugin_version(){
-    $plugin_file = plugin_dir_path( __FILE__ ). 'midrocket-chatgpt.php';
+    $plugin_file = plugin_dir_path( __FILE__ ). 'chatbot-gpt.php';
     $plugin_data = get_file_data($plugin_file, array('Version' => 'Version'), 'plugin');
     $plugin_version = $plugin_data['Version'];
     return $plugin_version;
